@@ -26,7 +26,7 @@ Useri can be installed with `opam`:
 
     opam install tsdl useri             # tsdl backend
     opam install js_of_ocaml useri      # js_of_ocaml backend
-    opam isntall tsdl js_of_ocaml useri # all backends 
+    opam install tsdl js_of_ocaml useri # all backends 
 
 If you don't use `opam` consult the [`opam`](opam) file for build
 instructions.
